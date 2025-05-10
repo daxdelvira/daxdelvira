@@ -8,4 +8,4 @@ I'm a PhD student at Georgia Tech researching agentic systems, distributed infra
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/daxvdv/) • [Website](https://daxdelvira.github.io/)
 
-[![Dax's GitHub stats](https://github-readme-stats.vercel.app/api?username=daxdelvira)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=daxdelvira&theme=gruvbox&short_numbers=true&date_format=%5BY.%5Dn.j)](https://git.io/streak-stats)

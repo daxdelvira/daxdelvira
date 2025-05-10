@@ -7,3 +7,5 @@ I'm a PhD student at Georgia Tech researching agentic systems, distributed infra
 ⚙️ Current Projects: Agent runtime benchmarking • LLM correction systems • State tracking infrastructure  
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/daxvdv/) • [Website](https://daxdelvira.github.io/)
+
+[![Dax's GitHub stats](https://github-readme-stats.vercel.app/api?username=daxdelvira)](https://github.com/anuraghazra/github-readme-stats)
